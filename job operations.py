@@ -1,13 +1,8 @@
 
 # coding: utf-8
 
-# In[4]:
-
 import pandas as pd
 import os
-
-
-# In[8]:
 
 os.chdir("/Users/Desktop/Python")
 pwd()
